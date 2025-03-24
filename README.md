@@ -9,11 +9,12 @@
 
 ---
 
-✨ About Me
-🚀 Crafting scalable web apps & seamless API integrations
-🌎 Exploring Next.js, cloud computing & full-stack development
-💡 Passionate about frontend frameworks & database optimization
-📩 Let's connect: traptivishkarma@gmail.com
+### ✨ About Me
+- 🚀 Crafting scalable web apps & seamless API integrations
+- 🌎 Exploring Next.js, cloud computing & full-stack development
+- 💡 Passionate about frontend frameworks & database optimization
+- 📩 Let's connect: traptivishkarma@gmail.com
+- 
 ---
 
 ### 📄 Resume  
