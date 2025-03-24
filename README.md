@@ -1,39 +1,36 @@
 <h1 align="center">Hi 👋, I'm Trapti Vishwakarma</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Frontend Developer 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/VbYjG-jloBkAAAAC/computer-working.gif">
+<img align="right" alt="Coding Girl" width="200" height="200" src="https://media.tenor.com/VbYjG-jloBkAAAAC/computer-working.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Trapti135&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Trapti135&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on **dynamic web applications and API integrations.**
-- 🌱 Exploring **Next.js and cloud deployment.**
-- 💬 Ask me about ** web technologies, and database management.**
-- 📫 Reach me at **traptivishkarma@gmail.com**  
+✨ About Me
+🚀 Crafting scalable web apps & seamless API integrations
+🌎 Exploring Next.js, cloud computing & full-stack development
+💡 Passionate about frontend frameworks & database optimization
+📩 Let's connect: traptivishkarma@gmail.com
+---
+
+### 📄 Resume  
+📌 **[Download My Resume](https://drve.google.com/file/d/1tw8ChTt21wbnihLqZOocWRkFgXA0fohs/view?usp=drive_link)**  
 
 ---
 
-### 📄 Resume
-📌 **Download My Resume ([https://drve.google.com/file/d/1tw8ChTt21wbnihLqZOocWRkFgXA0fohs/view?usp=drive_link])**  
-
----
-
-### 🌐 Connect With Me
+### 🌐 Connect With Me  
 <p align="left">
-  
-  <a href="[https://www.linkedin.com/in/tv-135s/]" target="_blank">
+  <a href="https://www.linkedin.com/in/tv-135s/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-   
 </p>
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack & Tools  
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -57,15 +54,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapeksh123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trapti135&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sapeksh123&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Trapti135&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapeksh123&" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Trapti135&" alt="GitHub Streak" />
 </p>
